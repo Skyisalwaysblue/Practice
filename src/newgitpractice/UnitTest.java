@@ -5,12 +5,12 @@ public class UnitTest {
 		
 		
 		
-		System.out.println(testOne(10,5));
+		System.out.println(testOne(20,8));
 	
 	}
 
 	
-	public static int testOne(int a, int b) {
-		return a - b;
+	public static int testOne( int  i, int y) {
+		return i - y;
 	}
 }
