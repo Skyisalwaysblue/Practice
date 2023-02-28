@@ -8,6 +8,7 @@ public class GitPracticeone {
 		System.out.println("This is practice for pull");
 
 		System.out.println("new changes");
+		 
 	}
 
 }
